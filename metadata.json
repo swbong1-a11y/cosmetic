@@ -1,0 +1,6 @@
+{
+  "name": "화장품 전성분 분석 및 기피 성분 추출기",
+  "description": "화장품 전성분표 이미지에서 텍스트를 추출하고 한국어로 번역하여 기피 성분 포함 여부, EWG 유해 등급, 상세 성분 설명을 분석하는 전문 분석기",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
